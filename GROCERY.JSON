@@ -1,0 +1,111 @@
+{
+    "GROCERY":
+    [
+        {
+            "SLNo":"1",
+            "NAME":"RICE",
+            "QUANTITY":"5",
+            "UNIT":"KILOGRAM",
+            "DEPARTMENT":"FOOD ITEM",
+            "NOTES":"Fiber content is essential for our body"
+        },
+        {
+            "SLNo":"2",
+            "NAME":"DAAL",
+            "QUANTITY":"1",
+            "UNIT":"KILOGRAM",
+            "DEPARTMENT":"FOOD ITEM",
+            "NOTES":"Fiber content is essential for our body"
+        },
+        {
+            "SLNo":"3",
+            "NAME":"TOMATO",
+            "QUANTITY":"4",
+            "UNIT":"KILOGRAM",
+            "DEPARTMENT":"VEGETABLE",
+            "NOTES":"BUY ONE KG AND GET HALF FREE..!"
+        },
+        {
+            "SLNo":"4",
+            "NAME":"ONION",
+            "QUANTITY":"2",
+            "UNIT":"KILOGRAM",
+            "DEPARTMENT":"VEGETABLE",
+            "NOTES":"50% OFF ON 2KG"
+        },
+        {
+            "SLNo":"5",
+            "NAME":"WATER COLOR",
+            "QUANTITY":"2",
+            "UNIT":"PER PIECE",
+            "DEPARTMENT":"STATIONARY",
+            "NOTES":"COLOR YOUR LIFE WITH US..."
+        },
+        {
+            "SLNo":"6",
+            "NAME":"PEN",
+            "QUANTITY":"15",
+            "UNIT":"PER PIECE",
+            "DEPARTMENT":"SATTIONARY",
+            "NOTES":"NEW ARRRIVAL"
+        },
+        {
+            "SLNo":"7",
+            "NAME":"HAND WASH",
+            "QUANTITY":"3",
+            "UNIT":"PER PIECE",
+            "DEPARTMENT":"CLEANING",
+            "NOTES":"WASH YOUR HANDS FREQUANTILY WITH HAND WASH"
+
+        },
+        {
+            "SLNo":"8",
+            "NAME":"SANITIZER",
+            "QUANTITY":"1",
+            "UNIT":"PER PIECE",
+            "DEPARTMENT":"MEDICINE",
+            "NOTES":"GO CORONO GO..USE SANITIZER"
+        },
+        {
+            "SLNo":"9",
+            "NAME":"MASK",
+            "QUANTITY":"1",
+            "UNIT":"PER PIECE",
+            "DEPARTMENT":"MEDICINE",
+            "NOTES":"COVER YOUR FACE AND PROTECT YOUR SELF"
+        },
+        {
+            "SLNo":"10",
+            "NAME":"PHENOL",
+            "QUANTITY":"4",
+            "UNIT":"PER PIECE",
+            "DEPARTMENT":"CLEANING",
+            "NOTES":"BUY 2 AND GET ONE FREE..!"
+        },
+        {
+            "SLNo":"11",
+            "NAME":"GOOD DAY",
+            "QUANTITY":"3",
+            "UNIT":"PER PIECE",
+            "DEPARTMENT":"BAKERY",
+            "NOTES":"NEW VARIETY ARRIVED..!"
+        },
+        {
+            "SLNo":"12",
+            "NAME":"MANGO JUICE",
+            "QUANTITY":"1",
+            "UNIT":"PER BOTTLE",
+            "DEPARTMENT":"COOL",
+            "NOTES":"COOL YOUR BODY..!"
+        },
+        {
+            "SLNo":"13",
+            "NAME":"MILK",
+            "QUANTITY":"2",
+            "UNIT":"PER BOTTLE",
+            "DEPARTMENT":"COOL",
+            "NOTES":"FRESH FROM FARM!"
+        }      
+
+    ]
+}

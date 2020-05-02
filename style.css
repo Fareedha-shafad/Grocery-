@@ -1,0 +1,40 @@
+*{
+    font-family: montserrat;
+    text-align: center;
+}
+
+
+.head
+    {
+    margin-bottom: 0px;
+    font-size: 3rem;
+    background: -webkit-linear-gradient(70deg,rgb(16, 222, 236),rgb(18, 248, 179),rgb(243, 220, 11));
+    }
+ 
+
+#Jdata
+{
+    color:purple;
+    font-weight: bold;
+}
+table { 
+    margin-top: 0px;
+    border-collapse: collapse; 
+    width: 80%;
+    justify-content: center;
+   
+} 
+  
+th { 
+    
+    padding: 8px; 
+    background-color:lightseagreen;
+   
+}
+tr:nth-child(odd) { 
+    background-color: lightgreen; 
+} 
+  
+tr:nth-child(even) { 
+    background-color: lightblue; 
+} 
